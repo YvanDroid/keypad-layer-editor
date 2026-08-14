@@ -1,1 +1,1660 @@
-{"11": {"layer_data": {"15": {"codes": 42, "device": "keyboard", "title": "Backspace"}, "1": {"codes": 36, "device": "keyboard", "title": "7"}, "2": {"codes": 37, "device": "keyboard", "title": "8"}, "3": {"codes": 38, "device": "keyboard", "title": "9"}, "4": {"codes": 43, "device": "keyboard", "title": "Tab"}, "5": {"codes": 33, "device": "keyboard", "title": "4"}, "6": {"codes": 34, "device": "keyboard", "title": "5"}, "7": {"codes": 35, "device": "keyboard", "title": "6"}, "8": {"codes": 44, "device": "keyboard", "title": "Space"}, "9": {"codes": 30, "device": "keyboard", "title": "1"}, "10": {"codes": 31, "device": "keyboard", "title": "2"}, "11": {"codes": 32, "device": "keyboard", "title": "3"}, "12": {"codes": 40, "device": "keyboard", "title": "Enter"}, "13": {"codes": 39, "device": "keyboard", "title": "0"}, "14": {"codes": 54, "device": "keyboard", "title": ","}}, "layer_title": "Data Numpad", "layer_colour": [100, 119, 141]}, "1": {"layer_data": {"15": {"codes": [5, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Fade-black"}, "1": {"colours": [255, 255, 0], "title": "Vol -", "device": "consumer_control", "codes": 234}, "2": {"colours": [255, 255, 0], "title": "Mute Volume", "device": "consumer_control", "codes": 226}, "3": {"colours": [255, 255, 0], "title": "Vol +", "device": "consumer_control", "codes": 233}, "4": {"colours": [255, 140, 15], "title": "VLC: Play/ Pause", "device": "keyboard", "codes": [19, 226, 224, "combo"]}, "5": {"device": "keyboard", "title": "VLC: Mute", "colours": [255, 140, 15], "codes": [39, 226, 224, "combo"]}, "6": {"device": "keyboard", "title": "VLC: Prev Chapter", "colours": [255, 140, 15], "codes": [80, 226, 224, "combo"]}, "7": {"device": "keyboard", "title": "VLC: Next Chapter", "colours": [255, 140, 15], "codes": [79, 226, 224, "combo"]}, "8": {"codes": [30, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 1"}, "9": {"codes": [31, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 2"}, "10": {"codes": [32, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 3"}, "11": {"codes": [23, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Transition"}, "12": {"codes": [33, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 4"}, "13": {"codes": [34, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 5"}, "14": {"codes": [35, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 6"}}, "layer_title": "VLC & OBS", "layer_colour": [255, 255, 255]}, "2": {"layer_data": {"12": {"codes": [224, 16, "combo"], "device": "keyboard", "title": "Mute/Unmute"}, "13": {"codes": [225, 25, 224, "combo"], "device": "keyboard", "title": "Video on/off"}, "14": {"codes": [225, 21, 224, "combo"], "device": "keyboard", "title": "Raise/Lower Hand"}, "15": {"codes": [224, 20, "combo"], "device": "keyboard", "title": "Quit Meeting"}, "4": {"codes": [225, 7, 224, "combo"], "device": "keyboard", "title": "Share Content"}, "5": {"codes": [225, 11, 224, "combo"], "device": "keyboard", "title": "Toggle Menu Bar"}, "6": {"codes": [225, 226, 15, "combo"], "device": "keyboard", "title": "Toggle Meeting Lock"}, "7": {"codes": [225, 24, 224, "combo"], "device": "keyboard", "title": "Mute all"}, "8": {"codes": [225, 29, 224, "combo"], "device": "keyboard", "title": "Stop Sharing"}, "9": {"codes": [225, 16, 224, "combo"], "device": "keyboard", "title": "Music Mode"}, "10": {"codes": [225, 226, 22, "combo"], "device": "keyboard", "title": "Pause/Resume Sharing"}, "11": {"codes": [225, 226, 28, "combo"], "device": "keyboard", "title": "Fullscreen"}}, "layer_title": "Webex Meetings", "layer_colour": [0, 0, 255]}, "3": {"layer_data": {"10": {"codes": 183, "device": "consumer_control", "title": "Stop"}, "11": {"codes": 181, "device": "consumer_control", "title": "Next Track"}, "12": {"codes": 234, "device": "consumer_control", "title": "Vol -"}, "13": {"codes": 233, "device": "consumer_control", "title": "Vol +"}, "4": {"codes": 226, "device": "consumer_control", "title": "Output Mute"}, "5": {"codes": 111, "device": "keyboard", "title": "Mic Mute (Linux)"}, "6": {"codes": 180, "device": "consumer_control", "title": "Rewind"}, "7": {"codes": 179, "device": "consumer_control", "title": "Fast Forward"}, "8": {"codes": 182, "device": "consumer_control", "title": "Prev Track"}, "9": {"codes": 205, "device": "consumer_control", "title": "Play/Pause"}}, "layer_title": "Media Keys", "layer_colour": [255, 255, 0]}, "4": {"layer_data": {"15": {"codes": [224, 25, "combo"], "device": "keyboard", "title": "Paste"}, "12": {"codes": [224, 29, "combo"], "device": "keyboard", "title": "Undo"}, "13": {"codes": [224, 27, "combo"], "device": "keyboard", "title": "Cut"}, "14": {"codes": [224, 6, "combo"], "device": "keyboard", "title": "Copy"}, "4": {"codes": [225, 6, 227, "combo"], "device": "keyboard", "title": "Color Picker"}, "5": {"codes": [225, 22, 227, "combo"], "device": "keyboard", "title": "Snip and Sketch"}, "6": {"codes": [225, 23, 227, "combo"], "device": "keyboard", "title": "Text Extractor"}, "7": {"codes": [224, 23, 227, "combo"], "device": "keyboard", "title": "Always on Top"}, "8": {"codes": [224, 28, "combo"], "device": "keyboard", "title": "Redo"}, "9": {"codes": [225, 16, 227, "combo"], "device": "keyboard", "title": "Screen Ruler"}, "10": {"codes": [224, 92, "combo"], "device": "keyboard", "title": "RTSS Overlay Toggle"}}, "layer_title": "Misc. Functions", "layer_colour": [232, 160, 152]}, "5": {"layer_data": {"15": {"codes": ["macro"], "device": "keyboard", "title": "Increment Lesson Count"}, "1": {"device": "keyboard", "title": "Absent", "colours": [218, 150, 148], "codes": [226, 11, 13, 74, 40, "macro"]}, "2": {"device": "keyboard", "title": "Attended", "colours": [196, 215, 155], "codes": [226, 11, 13, 74, 79, 40, "macro"]}, "3": {"device": "keyboard", "title": "Committee Prayer 1", "colours": [0, 176, 240], "codes": [226, 11, 13, 74, 79, 79, 40, "macro"]}, "4": {"device": "keyboard", "title": "Committee Prayer 2", "colours": [255, 192, 0], "codes": [226, 11, 13, 74, 79, 79, 79, 40, "macro"]}, "5": {"device": "keyboard", "title": "Attended (Other)", "colours": [177, 160, 199], "codes": [226, 11, 13, 74, 79, 79, 79, 79, 40, "macro"]}, "6": {"device": "keyboard", "title": "Sign Forgor", "colours": [149, 179, 215], "codes": [226, 11, 13, 74, 79, 79, 79, 79, 79, 40, "macro"]}, "7": {"device": "keyboard", "title": "No Report", "colours": [255, 255, 255], "codes": [226, 11, 13, 74, 81, 40, "macro"]}, "8": {"device": "keyboard", "title": "R1_07", "colours": [250, 191, 143], "codes": [226, 11, 13, 74, 81, 79, 40, "macro"]}, "9": {"codes": [[224, 30, "combo"], [226, 5, "combo"], 40, "macro"], "device": "keyboard", "title": "Change Format"}, "10": {"codes": [226, 11, 9, 6, 81, 81, 81, 81, 81, 81, 81, 79, 40, "macro"], "device": "keyboard", "title": "Change to red"}, "11": {"codes": [], "device": "keyboard", "title": "Remove Lesson Count"}, "12": {"codes": ["macro"], "device": "keyboard", "title": "Reset Lesson Count"}, "13": {"codes": ["macro"], "device": "keyboard", "title": "Decrement Lesson Count"}, "14": {"codes": [], "device": "keyboard", "title": "Print Lesson Count"}}, "layer_title": "Excel Functions", "layer_colour": [0, 255, 0]}, "6": {"layer_data": {"13": {"codes": [224, 99, "combo"], "device": "keyboard", "title": "Mute Game Audio"}, "1": {"codes": [93, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Save Replay"}, "2": {"codes": [94, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Start Replay"}, "3": {"codes": [95, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Start Record"}, "4": {"codes": [30, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 1"}, "5": {"codes": [31, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 2"}, "6": {"codes": [32, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 3"}, "7": {"codes": [33, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 4"}, "8": {"codes": [34, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 5"}, "9": {"codes": [35, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Scene 6"}, "10": {"codes": [[224, 87, "combo"], [224, 97, "combo"], "macro"], "device": "keyboard", "title": "Capture Foreground"}, "11": {"codes": [23, 226, 224, "combo"], "device": "keyboard", "title": "OBS: Transition"}, "12": {"codes": [224, 98, "combo"], "device": "keyboard", "title": "Mute Desktop Audio"}}, "layer_title": "Pure OBS", "layer_colour": [255, 128, 255]}, "7": {"layer_data": {"8": {"codes": [6, 226, 224, "combo"], "device": "keyboard", "title": "Toggle Chat"}, "9": {"codes": [19, 226, 224, "combo"], "device": "keyboard", "title": "Toggle Participants"}, "10": {"codes": [16, 226, 224, "combo"], "device": "keyboard", "title": "Toggle Video Size"}, "11": {"codes": [13, 226, 224, "combo"], "device": "keyboard", "title": "Decrease Participants"}, "12": {"codes": [224, 7, "combo"], "device": "keyboard", "title": "Mute Microphone"}, "13": {"codes": [224, 8, "combo"], "device": "keyboard", "title": "Toggle Camera"}, "14": {"codes": [11, 226, 224, "combo"], "device": "keyboard", "title": "Toggle Hand"}, "7": {"codes": [14, 226, 224, "combo"], "device": "keyboard", "title": "Increase Participants"}}, "layer_title": "Google Meet", "layer_colour": [48, 168, 80]}, "8": {"layer_data": {"12": {"codes": [33, 225, "combo"], "device": "keyboard", "title": "Latex Formatting"}, "13": {"codes": [224, 5, "combo"], "device": "keyboard", "title": "Toggle Bold"}, "14": {"codes": [224, 12, "combo"], "device": "keyboard", "title": "Toggle Italics"}, "15": {"codes": [224, 53, "combo"], "device": "keyboard", "title": "Toggle Blockquote"}, "4": {"codes": [80, 226, 224, "combo"], "device": "keyboard", "title": "Navigate Back"}, "5": {"codes": [79, 226, 224, "combo"], "device": "keyboard", "title": "Navigate Forward"}, "6": {"codes": [224, 75, "combo"], "device": "keyboard", "title": "Previous Tab"}, "7": {"codes": [224, 78, "combo"], "device": "keyboard", "title": "Next Tab"}, "8": {"codes": [225, 226, 4, "combo"], "device": "keyboard", "title": "Latex: Align"}, "9": {"codes": [225, 226, 6, "combo"], "device": "keyboard", "title": "Latex: Cases"}, "10": {"codes": [225, 226, 16, "combo"], "device": "keyboard", "title": "Latex: Matrix"}, "11": {"codes": [23, 226, 224, "combo"], "device": "keyboard", "title": "Table of Contents"}}, "layer_title": "Obsidian Notes", "layer_colour": [127, 106, 215]}, "9": {"layer_data": {"13": {"code": 26, "title": "Forward", "colours": [255, 255, 0], "device": "keyboard"}, "1": {"title": "Left Mouse", "device": "mouse", "buttons": 1}, "2": {"device": "mouse", "y": -50, "title": "Move Up"}, "3": {"title": "Right Mouse", "device": "mouse", "buttons": 2}, "4": {"device": "mouse", "wheel": 3, "title": "Scroll Up"}, "5": {"title": "Move Left", "device": "mouse", "x": -50}, "6": {"title": "Middle Mouse", "device": "mouse", "buttons": 4}, "7": {"title": "Move Right", "device": "mouse", "x": 50}, "8": {"device": "mouse", "wheel": -3, "title": "Scroll Down"}, "12": {"code": 224, "title": "Shoot", "colours": [255, 255, 0], "device": "keyboard"}, "10": {"device": "mouse", "y": 50, "title": "Move Down"}}, "layer_title": "1$ Mouse", "layer_colour": [59, 59, 59]}, "10": {"layer_data": {"15": {"note": 15, "device": "midi", "title": "(Un)Pause Playback"}, "1": {"note": 1, "device": "midi", "title": "Rizz Sounds"}, "2": {"note": 2, "device": "midi", "title": "Metal Pipe Sound"}, "3": {"note": 3, "device": "midi", "title": "Four Big Buys"}, "4": {"note": 4, "device": "midi", "title": "Fake Discord Ping"}, "5": {"note": 5, "device": "midi", "title": "Among Us Role Reveal"}, "6": {"note": 6, "device": "midi", "title": "Penguin0"}, "7": {"note": 11, "device": "midi", "title": "Giga Chad Theme"}, "8": {"note": 8, "device": "midi", "title": "WTHOMG"}, "9": {"note": 9, "device": "midi", "title": "Goofy Ahh Car"}, "10": {"note": 10, "device": "midi", "title": "Fart Reverb"}, "11": {"note": 7, "device": "midi", "title": "Spongebob Fail"}, "12": {"note": 12, "device": "midi", "title": "bruh"}, "13": {"note": 13, "device": "midi", "title": "Vine Boom"}, "14": {"note": 14, "device": "midi", "title": "Stop Playback"}}, "layer_title": "Meme Soundboard", "layer_colour": [0, 128, 0]}, "15": {"layer_data": {"12": {"codes": 112, "device": "keyboard", "title": "F21"}, "13": {"codes": 113, "device": "keyboard", "title": "F22"}, "14": {"codes": 114, "device": "keyboard", "title": "F23"}, "15": {"codes": 115, "device": "keyboard", "title": "F24"}, "4": {"codes": 104, "device": "keyboard", "title": "F13"}, "5": {"codes": 105, "device": "keyboard", "title": "F14"}, "6": {"codes": 106, "device": "keyboard", "title": "F15"}, "7": {"codes": 107, "device": "keyboard", "title": "F16"}, "8": {"codes": 108, "device": "keyboard", "title": "F17"}, "9": {"codes": 109, "device": "keyboard", "title": "F18"}, "10": {"codes": 110, "device": "keyboard", "title": "F19"}, "11": {"codes": 111, "device": "keyboard", "title": "F20"}}, "layer_title": "Extra Keys", "layer_colour": [255, 255, 0]}}
+{
+    "1": {
+        "layer_data": {
+            "1": {
+                "codes": 234,
+                "title": "Vol -",
+                "device": "consumer_control",
+                "colours": [
+                    255,
+                    255,
+                    0
+                ]
+            },
+            "2": {
+                "codes": 226,
+                "title": "Mute Volume",
+                "device": "consumer_control",
+                "colours": [
+                    255,
+                    255,
+                    0
+                ]
+            },
+            "3": {
+                "codes": 233,
+                "title": "Vol +",
+                "device": "consumer_control",
+                "colours": [
+                    255,
+                    255,
+                    0
+                ]
+            },
+            "4": {
+                "codes": [
+                    224,
+                    226,
+                    19,
+                    "combo"
+                ],
+                "title": "VLC: Play/ Pause",
+                "device": "keyboard",
+                "colours": [
+                    255,
+                    140,
+                    15
+                ]
+            },
+            "5": {
+                "codes": [
+                    224,
+                    226,
+                    39,
+                    "combo"
+                ],
+                "title": "VLC: Mute",
+                "colours": [
+                    255,
+                    140,
+                    15
+                ],
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    224,
+                    226,
+                    80,
+                    "combo"
+                ],
+                "title": "VLC: Prev Chapter",
+                "colours": [
+                    255,
+                    140,
+                    15
+                ],
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    226,
+                    79,
+                    "combo"
+                ],
+                "title": "VLC: Next Chapter",
+                "colours": [
+                    255,
+                    140,
+                    15
+                ],
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    224,
+                    226,
+                    30,
+                    "combo"
+                ],
+                "title": "OBS: Scene 1",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    224,
+                    226,
+                    31,
+                    "combo"
+                ],
+                "title": "OBS: Scene 2",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    224,
+                    226,
+                    32,
+                    "combo"
+                ],
+                "title": "OBS: Scene 3",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [
+                    224,
+                    226,
+                    23,
+                    "combo"
+                ],
+                "title": "OBS: Transition",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": [
+                    224,
+                    33,
+                    226,
+                    "combo"
+                ],
+                "title": "OBS: Scene 4",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    226,
+                    34,
+                    "combo"
+                ],
+                "title": "OBS: Scene 5",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [
+                    224,
+                    226,
+                    35,
+                    "combo"
+                ],
+                "title": "OBS: Scene 6",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": [
+                    224,
+                    226,
+                    5,
+                    "combo"
+                ],
+                "title": "OBS: Fade-black",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            255,
+            255,
+            255
+        ],
+        "layer_title": "VLC & OBS"
+    },
+    "2": {
+        "layer_data": {
+            "4": {
+                "codes": [
+                    224,
+                    225,
+                    7,
+                    "combo"
+                ],
+                "title": "Share Content",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": [
+                    224,
+                    225,
+                    11,
+                    "combo"
+                ],
+                "title": "Toggle Menu Bar",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    225,
+                    226,
+                    15,
+                    "combo"
+                ],
+                "title": "Toggle Meeting Lock",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    225,
+                    24,
+                    "combo"
+                ],
+                "title": "Mute all",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    224,
+                    225,
+                    29,
+                    "combo"
+                ],
+                "title": "Stop Sharing",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    224,
+                    225,
+                    16,
+                    "combo"
+                ],
+                "title": "Music Mode",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    225,
+                    226,
+                    22,
+                    "combo"
+                ],
+                "title": "Pause/Resume Sharing",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [
+                    225,
+                    226,
+                    28,
+                    "combo"
+                ],
+                "title": "Fullscreen",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": [
+                    224,
+                    16,
+                    "combo"
+                ],
+                "title": "Mute/Unmute",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    225,
+                    25,
+                    "combo"
+                ],
+                "title": "Video on/off",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [
+                    224,
+                    225,
+                    21,
+                    "combo"
+                ],
+                "title": "Raise/Lower Hand",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": [
+                    224,
+                    20,
+                    "combo"
+                ],
+                "title": "Quit Meeting",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            0,
+            0,
+            255
+        ],
+        "layer_title": "Webex Meetings"
+    },
+    "3": {
+        "layer_data": {
+            "12": {
+                "codes": 234,
+                "title": "Vol -",
+                "device": "consumer_control"
+            },
+            "8": {
+                "codes": 182,
+                "title": "Prev Track",
+                "device": "consumer_control"
+            },
+            "4": {
+                "codes": 226,
+                "title": "Output Mute",
+                "device": "consumer_control"
+            },
+            "5": {
+                "codes": 111,
+                "title": "Mic Mute (Linux)",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": 205,
+                "title": "Play/Pause",
+                "device": "consumer_control"
+            },
+            "13": {
+                "codes": 233,
+                "title": "Vol +",
+                "device": "consumer_control"
+            },
+            "11": {
+                "codes": 181,
+                "title": "Next Track",
+                "device": "consumer_control"
+            },
+            "6": {
+                "codes": 180,
+                "title": "Rewind",
+                "device": "consumer_control"
+            },
+            "7": {
+                "codes": 179,
+                "title": "Fast Forward",
+                "device": "consumer_control"
+            },
+            "10": {
+                "codes": 183,
+                "title": "Stop",
+                "device": "consumer_control"
+            }
+        },
+        "layer_colour": [
+            255,
+            255,
+            0
+        ],
+        "layer_title": "Media Keys"
+    },
+    "4": {
+        "layer_data": {
+            "4": {
+                "codes": [
+                    225,
+                    227,
+                    6,
+                    "combo"
+                ],
+                "title": "Color Picker",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": [
+                    225,
+                    227,
+                    22,
+                    "combo"
+                ],
+                "title": "Snip and Sketch",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    225,
+                    227,
+                    23,
+                    "combo"
+                ],
+                "title": "Text Extractor",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    227,
+                    23,
+                    "combo"
+                ],
+                "title": "Always on Top",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    16,
+                    225,
+                    227,
+                    "combo"
+                ],
+                "title": "Screen Ruler",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    224,
+                    28,
+                    "combo"
+                ],
+                "title": "Redo",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    224,
+                    92,
+                    "combo"
+                ],
+                "title": "RTSS Overlay Toggle",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": [
+                    224,
+                    29,
+                    "combo"
+                ],
+                "title": "Undo",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    27,
+                    "combo"
+                ],
+                "title": "Cut",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [
+                    224,
+                    6,
+                    "combo"
+                ],
+                "title": "Copy",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": [
+                    224,
+                    25,
+                    "combo"
+                ],
+                "title": "Paste",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            232,
+            160,
+            152
+        ],
+        "layer_title": "Misc. Functions"
+    },
+    "5": {
+        "layer_data": {
+            "10": {
+                "codes": [
+                    226,
+                    11,
+                    9,
+                    6,
+                    81,
+                    81,
+                    81,
+                    81,
+                    81,
+                    81,
+                    81,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Change to red",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [],
+                "title": "Remove Lesson Count",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": [
+                    "macro"
+                ],
+                "title": "Reset Lesson Count",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    "macro"
+                ],
+                "title": "Decrement Lesson Count",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [],
+                "title": "Print Lesson Count",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": [
+                    "macro"
+                ],
+                "title": "Increment Lesson Count",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    [
+                        224,
+                        30,
+                        "combo"
+                    ],
+                    [
+                        226,
+                        5,
+                        "combo"
+                    ],
+                    40,
+                    "macro"
+                ],
+                "title": "Change Format",
+                "device": "keyboard"
+            },
+            "1": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    40,
+                    "macro"
+                ],
+                "title": "Absent",
+                "colours": [
+                    218,
+                    150,
+                    148
+                ],
+                "device": "keyboard"
+            },
+            "2": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Attended",
+                "colours": [
+                    196,
+                    215,
+                    155
+                ],
+                "device": "keyboard"
+            },
+            "3": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    79,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Committee Prayer 1",
+                "colours": [
+                    0,
+                    176,
+                    240
+                ],
+                "device": "keyboard"
+            },
+            "4": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    79,
+                    79,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Committee Prayer 2",
+                "colours": [
+                    255,
+                    192,
+                    0
+                ],
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    79,
+                    79,
+                    79,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Attended (Other)",
+                "colours": [
+                    177,
+                    160,
+                    199
+                ],
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    79,
+                    79,
+                    79,
+                    79,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "Sign Forgor",
+                "colours": [
+                    149,
+                    179,
+                    215
+                ],
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    81,
+                    40,
+                    "macro"
+                ],
+                "title": "No Report",
+                "colours": [
+                    255,
+                    255,
+                    255
+                ],
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    226,
+                    11,
+                    13,
+                    74,
+                    81,
+                    79,
+                    40,
+                    "macro"
+                ],
+                "title": "R1_07",
+                "colours": [
+                    250,
+                    191,
+                    143
+                ],
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            0,
+            255,
+            0
+        ],
+        "layer_title": "Excel Functions"
+    },
+    "6": {
+        "layer_data": {
+            "1": {
+                "codes": [
+                    224,
+                    226,
+                    93,
+                    "combo"
+                ],
+                "title": "OBS: Save Replay",
+                "device": "keyboard"
+            },
+            "2": {
+                "codes": [
+                    224,
+                    226,
+                    94,
+                    "combo"
+                ],
+                "title": "OBS: Start Replay",
+                "device": "keyboard"
+            },
+            "3": {
+                "codes": [
+                    224,
+                    226,
+                    95,
+                    "combo"
+                ],
+                "title": "OBS: Start Record",
+                "device": "keyboard"
+            },
+            "4": {
+                "codes": [
+                    224,
+                    226,
+                    30,
+                    "combo"
+                ],
+                "title": "OBS: Scene 1",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": [
+                    224,
+                    226,
+                    31,
+                    "combo"
+                ],
+                "title": "OBS: Scene 2",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    224,
+                    226,
+                    32,
+                    "combo"
+                ],
+                "title": "OBS: Scene 3",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    33,
+                    226,
+                    "combo"
+                ],
+                "title": "OBS: Scene 4",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    224,
+                    226,
+                    34,
+                    "combo"
+                ],
+                "title": "OBS: Scene 5",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    224,
+                    226,
+                    35,
+                    "combo"
+                ],
+                "title": "OBS: Scene 6",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    [
+                        224,
+                        87,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        97,
+                        "combo"
+                    ],
+                    "macro"
+                ],
+                "title": "Capture Foreground",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [
+                    224,
+                    226,
+                    23,
+                    "combo"
+                ],
+                "title": "OBS: Transition",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": [
+                    224,
+                    98,
+                    "combo"
+                ],
+                "title": "Mute Desktop Audio",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    99,
+                    "combo"
+                ],
+                "title": "Mute Game Audio",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            255,
+            128,
+            255
+        ],
+        "layer_title": "Pure OBS"
+    },
+    "7": {
+        "layer_data": {
+            "12": {
+                "codes": [
+                    224,
+                    7,
+                    "combo"
+                ],
+                "title": "Mute Microphone",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    8,
+                    "combo"
+                ],
+                "title": "Toggle Camera",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    226,
+                    14,
+                    "combo"
+                ],
+                "title": "Increase Participants",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [
+                    224,
+                    226,
+                    13,
+                    "combo"
+                ],
+                "title": "Decrease Participants",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [
+                    224,
+                    226,
+                    11,
+                    "combo"
+                ],
+                "title": "Toggle Hand",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    224,
+                    226,
+                    6,
+                    "combo"
+                ],
+                "title": "Toggle Chat",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    224,
+                    226,
+                    19,
+                    "combo"
+                ],
+                "title": "Toggle Participants",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    224,
+                    16,
+                    226,
+                    "combo"
+                ],
+                "title": "Toggle Video Size",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            48,
+            168,
+            80
+        ],
+        "layer_title": "Google Meet"
+    },
+    "8": {
+        "layer_data": {
+            "12": {
+                "codes": [
+                    225,
+                    33,
+                    "combo"
+                ],
+                "title": "Latex Formatting",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": [
+                    224,
+                    5,
+                    "combo"
+                ],
+                "title": "Toggle Bold",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": [
+                    224,
+                    12,
+                    "combo"
+                ],
+                "title": "Toggle Italics",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": [
+                    224,
+                    53,
+                    "combo"
+                ],
+                "title": "Toggle Blockquote",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": [
+                    225,
+                    226,
+                    4,
+                    "combo"
+                ],
+                "title": "Latex: Align",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": [
+                    225,
+                    226,
+                    6,
+                    "combo"
+                ],
+                "title": "Latex: Cases",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": [
+                    16,
+                    225,
+                    226,
+                    "combo"
+                ],
+                "title": "Latex: Matrix",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": [
+                    224,
+                    226,
+                    23,
+                    "combo"
+                ],
+                "title": "Table of Contents",
+                "device": "keyboard"
+            },
+            "4": {
+                "codes": [
+                    224,
+                    226,
+                    80,
+                    "combo"
+                ],
+                "title": "Navigate Back",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": [
+                    224,
+                    226,
+                    79,
+                    "combo"
+                ],
+                "title": "Navigate Forward",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": [
+                    224,
+                    78,
+                    "combo"
+                ],
+                "title": "Next Tab",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": [
+                    224,
+                    75,
+                    "combo"
+                ],
+                "title": "Previous Tab",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            127,
+            106,
+            215
+        ],
+        "layer_title": "Obsidian Notes"
+    },
+    "9": {
+        "layer_data": {
+            "1": {
+                "buttons": 1,
+                "title": "Left Mouse",
+                "device": "mouse"
+            },
+            "3": {
+                "buttons": 2,
+                "title": "Right Mouse",
+                "device": "mouse"
+            },
+            "6": {
+                "buttons": 4,
+                "title": "Middle Mouse",
+                "device": "mouse"
+            },
+            "2": {
+                "y": -50,
+                "title": "Move Up",
+                "device": "mouse"
+            },
+            "5": {
+                "x": -50,
+                "title": "Move Left",
+                "device": "mouse"
+            },
+            "7": {
+                "x": 50,
+                "title": "Move Right",
+                "device": "mouse"
+            },
+            "10": {
+                "y": 50,
+                "title": "Move Down",
+                "device": "mouse"
+            },
+            "4": {
+                "wheel": 3,
+                "title": "Scroll Up",
+                "device": "mouse"
+            },
+            "8": {
+                "wheel": -3,
+                "title": "Scroll Down",
+                "device": "mouse"
+            },
+            "12": {
+                "code": 224,
+                "title": "Shoot",
+                "colours": [
+                    255,
+                    255,
+                    0
+                ],
+                "device": "keyboard"
+            },
+            "13": {
+                "code": 26,
+                "title": "Forward",
+                "colours": [
+                    255,
+                    255,
+                    0
+                ],
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            59,
+            59,
+            59
+        ],
+        "layer_title": "1$ Mouse"
+    },
+    "10": {
+        "layer_data": {
+            "1": {
+                "note": 1,
+                "title": "Rizz Sounds",
+                "device": "midi"
+            },
+            "2": {
+                "note": 2,
+                "title": "Metal Pipe Sound",
+                "device": "midi"
+            },
+            "3": {
+                "note": 3,
+                "title": "Four Big Buys",
+                "device": "midi"
+            },
+            "4": {
+                "note": 4,
+                "title": "Fake Discord Ping",
+                "device": "midi"
+            },
+            "5": {
+                "note": 5,
+                "title": "Among Us Role Reveal",
+                "device": "midi"
+            },
+            "6": {
+                "note": 6,
+                "title": "Penguin0",
+                "device": "midi"
+            },
+            "11": {
+                "note": 7,
+                "title": "Spongebob Fail",
+                "device": "midi"
+            },
+            "8": {
+                "note": 8,
+                "title": "WTHOMG",
+                "device": "midi"
+            },
+            "9": {
+                "note": 9,
+                "title": "Goofy Ahh Car",
+                "device": "midi"
+            },
+            "10": {
+                "note": 10,
+                "title": "Fart Reverb",
+                "device": "midi"
+            },
+            "7": {
+                "note": 11,
+                "title": "Giga Chad Theme",
+                "device": "midi"
+            },
+            "12": {
+                "note": 12,
+                "title": "bruh",
+                "device": "midi"
+            },
+            "13": {
+                "note": 13,
+                "title": "Vine Boom",
+                "device": "midi"
+            },
+            "14": {
+                "note": 14,
+                "title": "Stop Playback",
+                "device": "midi"
+            },
+            "15": {
+                "note": 15,
+                "title": "(Un)Pause Playback",
+                "device": "midi"
+            }
+        },
+        "layer_colour": [
+            0,
+            128,
+            0
+        ],
+        "layer_title": "Meme Soundboard"
+    },
+    "15": {
+        "layer_data": {
+            "4": {
+                "codes": 104,
+                "title": "F13",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": 105,
+                "title": "F14",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": 106,
+                "title": "F15",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": 107,
+                "title": "F16",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": 108,
+                "title": "F17",
+                "device": "keyboard"
+            },
+            "9": {
+                "codes": 109,
+                "title": "F18",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": 110,
+                "title": "F19",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": 111,
+                "title": "F20",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": 112,
+                "title": "F21",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": 113,
+                "title": "F22",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": 114,
+                "title": "F23",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": 115,
+                "title": "F24",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            255,
+            255,
+            0
+        ],
+        "layer_title": "Extra Keys"
+    },
+    "11": {
+        "layer_data": {
+            "9": {
+                "codes": 30,
+                "title": "1",
+                "device": "keyboard"
+            },
+            "10": {
+                "codes": 31,
+                "title": "2",
+                "device": "keyboard"
+            },
+            "11": {
+                "codes": 32,
+                "title": "3",
+                "device": "keyboard"
+            },
+            "14": {
+                "codes": 54,
+                "title": ",",
+                "device": "keyboard"
+            },
+            "5": {
+                "codes": 33,
+                "title": "4",
+                "device": "keyboard"
+            },
+            "6": {
+                "codes": 34,
+                "title": "5",
+                "device": "keyboard"
+            },
+            "7": {
+                "codes": 35,
+                "title": "6",
+                "device": "keyboard"
+            },
+            "1": {
+                "codes": 36,
+                "title": "7",
+                "device": "keyboard"
+            },
+            "2": {
+                "codes": 37,
+                "title": "8",
+                "device": "keyboard"
+            },
+            "3": {
+                "codes": 38,
+                "title": "9",
+                "device": "keyboard"
+            },
+            "13": {
+                "codes": 39,
+                "title": "0",
+                "device": "keyboard"
+            },
+            "15": {
+                "codes": 42,
+                "title": "Backspace",
+                "device": "keyboard"
+            },
+            "4": {
+                "codes": 43,
+                "title": "Tab",
+                "device": "keyboard"
+            },
+            "8": {
+                "codes": 44,
+                "title": "Space",
+                "device": "keyboard"
+            },
+            "12": {
+                "codes": 40,
+                "title": "Enter",
+                "device": "keyboard"
+            }
+        },
+        "layer_colour": [
+            100,
+            119,
+            141
+        ],
+        "layer_title": "Data Numpad"
+    },
+    "12": {
+        "layer_data": {
+            "12": {
+                "title": "Paste link in cell",
+                "device": "keyboard",
+                "codes": [
+                    77,
+                    [
+                        225,
+                        74,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        14,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    0.5,
+                    40,
+                    "macro"
+                ]
+            },
+            "13": {
+                "title": "Search Karaoke",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        224,
+                        4,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    44,
+                    "karaoke",
+                    40,
+                    "macro"
+                ]
+            },
+            "9": {
+                "title": "Search Lyrics",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        224,
+                        4,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    44,
+                    "lyrics",
+                    40,
+                    "macro"
+                ]
+            },
+            "8": {
+                "title": "Copy cell data",
+                "device": "keyboard",
+                "codes": [
+                    74,
+                    [
+                        225,
+                        77,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        6,
+                        "combo"
+                    ],
+                    79,
+                    82,
+                    "macro"
+                ]
+            },
+            "10": {
+                "title": "Copy next cell data",
+                "device": "keyboard",
+                "codes": [
+                    81,
+                    74,
+                    [
+                        225,
+                        77,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        6,
+                        "combo"
+                    ],
+                    79,
+                    82,
+                    "macro"
+                ]
+            },
+            "14": {
+                "title": "Paste, Select and Add Video",
+                "device": "keyboard",
+                "codes": [
+                    43,
+                    43,
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    40,
+                    1.5,
+                    44,
+                    43,
+                    43,
+                    40,
+                    "macro"
+                ]
+            },
+            "15": {
+                "title": "Semi Full Auto",
+                "device": "keyboard",
+                "codes": [
+                    43,
+                    43,
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    40,
+                    1.5,
+                    44,
+                    43,
+                    43,
+                    40,
+                    [
+                        80,
+                        227,
+                        "combo"
+                    ],
+                    77,
+                    [
+                        225,
+                        74,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        14,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        25,
+                        "combo"
+                    ],
+                    0.5,
+                    40,
+                    81,
+                    74,
+                    [
+                        225,
+                        77,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        225,
+                        79,
+                        "combo"
+                    ],
+                    [
+                        224,
+                        6,
+                        "combo"
+                    ],
+                    79,
+                    82,
+                    "macro"
+                ]
+            },
+            "2": {
+                "title": "Niri: Move up",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        82,
+                        227,
+                        "combo"
+                    ],
+                    "macro"
+                ]
+            },
+            "5": {
+                "title": "Niri: Move left",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        80,
+                        227,
+                        "combo"
+                    ],
+                    "macro"
+                ]
+            },
+            "6": {
+                "title": "Niri: Move down",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        81,
+                        227,
+                        "combo"
+                    ],
+                    "macro"
+                ]
+            },
+            "7": {
+                "title": "Niri: Move right",
+                "device": "keyboard",
+                "codes": [
+                    [
+                        227,
+                        79,
+                        "combo"
+                    ],
+                    "macro"
+                ]
+            }
+        },
+        "layer_colour": [
+            0,
+            0,
+            255
+        ],
+        "layer_title": "Google Sheets"
+    }
+}
